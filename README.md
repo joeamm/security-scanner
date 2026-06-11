@@ -141,6 +141,5 @@ Inspects cookies set by the homepage for missing `Secure` and `HttpOnly` flags.
 Built by joe ammoun — Python developer with a Google Cybersecurity Professional Certificate.  
 Available for freelance security audits, scripting, and automation projects.
 
-📧 your@email.com  
 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01620d7d3c7e1378b8?mp_source=share)  
 🔗 [LinkedIn](https://www.linkedin.com/in/joe-ammoun-019850344)
