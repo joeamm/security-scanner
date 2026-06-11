@@ -321,7 +321,7 @@ def print_report(url, all_results, duration):
                 priority += 1
 
     print(bold(divider))
-    print(f"\n  Scan complete. Share this report with your client.\n")
+    print(f"\n  Scan complete.\n")
 
 
 def main():
